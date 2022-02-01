@@ -1,0 +1,65 @@
+html {
+    text-align: center;
+    scroll-behavior: smooth;
+}
+
+#coverpage {
+    border-radius: 25px;
+    width: 550px;
+    height: 750px;
+}
+
+#author {
+    border-radius: 25px;
+    width: 225x;
+    height: 335px;
+    margin-top: 425px;
+}
+
+.adityareview_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.adityareview_mainDiv hr {
+    width: 230px;
+}
+
+#myCarousel {
+  background-color: bisque;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
